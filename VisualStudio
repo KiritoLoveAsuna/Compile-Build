@@ -1,8 +1,0 @@
-### Visual Studio Compile cpp file
-```
-cl /EHsc hello.cpp
-```
-### Visual Studio Compile sln project
-```
-msbuild sln_file_name /p:Configuration=Release
-```
